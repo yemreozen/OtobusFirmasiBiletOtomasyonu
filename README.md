@@ -20,8 +20,12 @@ Sistem arayüzü şık ve bir o kadar da sade şekildedir. Gerek kullanıcılar 
 	
 	Giriş Ekranı:
 ![image](https://user-images.githubusercontent.com/102474125/160286597-ccf93ceb-bd7b-41a9-9eb8-0b9d05433e6a.png)
+  
+  
   Kullanıcı Ekranı:
 ![image](https://user-images.githubusercontent.com/102474125/160286624-eb459f9c-f2f6-45a2-a182-722b8053e9f4.png)
+  
+  
   Seferlerin Bulunduğu Ekran:
 ![image](https://user-images.githubusercontent.com/102474125/160286651-d3a4ebcd-31ae-4b4c-ad0c-354e078db057.png)
 
